@@ -2,7 +2,7 @@
 
 ## Overview
 
-This web application aims to [brief description of the project].
+This web application aims to Child Survival Aid Ghana Web App.
 
 ## Table of Contents
 
@@ -20,17 +20,13 @@ This web application aims to [brief description of the project].
 2. **Project Setup:**
    - To run the project locally, use:
      ```bash
-     # Add specific commands for running locally
+     # Install Dependencies
      ```
 
    - To deploy on GitHub Pages or any chosen domain:
      ```bash
-     # Add deployment instructions
+     # Deploy to your chosen tool
      ```
-
-## Usage
-
-[Provide instructions on how to use or run your application.]
 
 ## Contributing
 
