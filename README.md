@@ -26,7 +26,7 @@ This web application aims to Child Survival Aid Ghana Web App.
    - To deploy on GitHub Pages or any chosen domain:
      ```bash
      # Deploy to your chosen tool
-     ```
+     ``` 
 
 ## Contributing
 
@@ -40,4 +40,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 **Manuel Dinis Junior - Software Engineer**
 - LinkedIn: [Manuel Dinis Junior](https://www.linkedin.com/in/manuel-dinis-junior/)
-
