@@ -12,7 +12,7 @@ This web application aims to Child Survival Aid Ghana Web App.
 - [License](#license)
 - [Author](#author)
 
-## Installation
+## Installation 
 
 1. **Node.js and npm:**
    - Install Node.js and npm by following the instructions on the [official website](https://nodejs.org/).
