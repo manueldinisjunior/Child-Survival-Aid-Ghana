@@ -38,5 +38,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**Manuel Dinis Junior - Software Engineer**
+**Manuel Dinis Junior**
 - LinkedIn: [Manuel Dinis Junior](https://www.linkedin.com/in/manuel-dinis-junior/)
