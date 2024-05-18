@@ -2,7 +2,7 @@
 
 ## Overview
 
-This web application aims to Child Survival Aid Ghana Web App.
+This web application aims at the Child Survival Aid Ghana Web App.
 
 ## Table of Contents
 
